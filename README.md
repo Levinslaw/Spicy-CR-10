@@ -16,4 +16,4 @@
 
 
 ![image](https://github.com/dlcklazer/Spicy-CR-10/assets/74157293/096f2b58-d332-4ad7-9a14-bed5a1ec402c)
-[Schedule_CR10V2.csv](https://github.com/dlcklazer/Spicy-CR-10/files/15012813/Schedule_CR10V2.csv)
+
