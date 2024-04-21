@@ -1,15 +1,13 @@
-# Spicy CR-10
-
 _A very hot bedslinger, once a Creality CR-10 V2_
 
 ## Current Specifications
 
 ### Temperatures:
 
-- **Hotend:** 500C max
+- **Hotend:** 500°C max
 - **Bed:** 240°C max (tested)
 - **Build chamber:** 150°C max (135°C nominal, component limitation)
-- **Part Cooling**  200°C max, printed in Ultem 1010+GF30
+- **Part Cooling**  200°C max
   
 Currently working with a Danger Klipper module for heated part cooling control that will allow both fan speed and the heater core temp to be changed independently.
 
