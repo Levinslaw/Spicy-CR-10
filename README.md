@@ -9,6 +9,7 @@ Current specifications:
 - Hotend Temperature: 500C max using Chube Air and a custom heatbreak air manifold fed by a Berd air pump outside the heated volume, (1) PT-1000, 100W heater cart
 - Bed Temperature: 240C tested max using 120 VAC, 1200 watt silicone heater with red RTV (no PSA)
 - Heated chamber: 150C max (135C nominal, printer component limitation)
+- Part Cooling Temperature: 200C max, printed in Ultem 1010+GF30
   
 Currently working with a Danger Klipper module for heated part cooling control that will allow both fan speed and the heater core temp to be changed independently
 
