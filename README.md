@@ -11,7 +11,7 @@ Current specifications:
 - Heated chamber: 150C max (135C nominal, printer component limitation)
 - Part Cooling Temperature: 200C max, printed in Ultem 1010+GF30
   
-Currently working with a Danger Klipper module for heated part cooling control that will allow both fan speed and the heater core temp to be changed independently
+Currently working with a Danger Klipper module for heated part cooling control that will allow both fan speed and the heater core temp to be changed independently.
 
 
 https://gist.github.com/rogerlz/03ae2b7530cb7587cf652ae4de88a4ae?permalink_comment_id=5031449#gistcomment-5031449
