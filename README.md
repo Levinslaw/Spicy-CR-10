@@ -40,7 +40,7 @@ _A very hot bedslinger, once a Creality CR-10 V2_
   - PT1000 temperature sensor (Slice Engineering)
 - **Chamber heater**
   - 120 VAC PTCs x2, 600W each
-  - 12 VDC impeller fan, 50W, externally mounted, 2820 RPM
+  - 12 VDC impeller fan, 50W, externally mounted, 2820 RPM, XD-3420, perm magnet
   - 12 VDC cooling fan for impeller fan, Noctua 80mm NF-A8
   - PT1000 3-wire, MAX31865 ADC, GPIO on RaspberryPi, free air in chamber
 
