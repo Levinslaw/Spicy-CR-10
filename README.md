@@ -51,10 +51,11 @@ _A very hot bedslinger, once a Creality CR-10 V2_
   - PT1000 temperature sensor (Slice Engineering)
   - 24 VDC brushless air pump, high temperature, 3-wire
 
+<details>
 
+<summary>**Work In Progress**</summary>  
 
 Currently working with a Danger Klipper module for heated part cooling control that will allow both fan speed and the heater core temp to be changed independently.
-
-
 https://gist.github.com/rogerlz/03ae2b7530cb7587cf652ae4de88a4ae?permalink_comment_id=5031449#gistcomment-5031449
 
+</details>
