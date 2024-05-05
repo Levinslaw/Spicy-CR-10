@@ -1,6 +1,6 @@
 ## Environmental control strategies
 
-    Process parameter control is everything in additive manufacturing wherein anisotropic properties are intrinsic to the technology. The environmental controls constitute everything between the toolhead's nozzle and the part build surface.
+Process parameter control is everything in additive manufacturing wherein anisotropic properties are intrinsic to the technology. The environmental controls constitute everything between the toolhead's nozzle and the part build surface.
 
 This machine is a bed slinger in a box design. The enclosure is highly insulated and actively heated. With high performance polymers the insulation is too effective. Measures to actively remove heat from the build volume are needed to maintain the target air temperature and stay under machine design limits.
 
