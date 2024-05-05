@@ -60,7 +60,7 @@ A small tube-and-fin intercooler from a turbocharged vehicle was selected to be 
    - Inlet/Outlet: φ56 mm (2 1/4")
    - Material: 100%  Aluminum
 
-![alt text](image.png)
+
 
 While having the exchanger inside the heater chamber would be preferable, placing penetrations in the enclosure is not, especially during prototyping. The intercooler will set atop the enclosure, with an intake and exhause hose from each hose flange into the enclosure door.
 
@@ -72,7 +72,9 @@ There are no axial fans available off the shelf with service temperatures above 
 
 Source: K-Tech-Pro, Germany
 
-![alt text](image-1.png)
+![plot](levins-law/Spicy-CR-10/K157 german fan front view.png)
+
+[url](K157 german fan front view.png)
 
 A wire-lined silicone air hose duct in the 2.25" diameter will be used to transport the air from the chamber to the intercooler and back.
 
