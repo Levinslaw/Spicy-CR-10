@@ -1,4 +1,4 @@
-## Environmental control strategies
+# Environmental control strategies
 
 Process parameter control is everything in additive manufacturing wherein anisotropic properties are intrinsic to the technology. The environmental controls constitute everything between the toolhead's nozzle and the part build surface.
 
@@ -61,7 +61,6 @@ A small tube-and-fin intercooler from a turbocharged vehicle was selected to be 
    - Material: 100%  Aluminum
 
 
-
 While having the exchanger inside the heater chamber would be preferable, placing penetrations in the enclosure is not, especially during prototyping. The intercooler will set atop the enclosure, with an intake and exhause hose from each hose flange into the enclosure door.
 
 There are no axial fans available off the shelf with service temperatures above 85 C. One exception was suggested by a user on Discord, which is only available to ship to the EU. Another helpful Discord user from the EU assisted with forwwarding a 150 C capable axial fan with the specifications:
@@ -70,12 +69,6 @@ There are no axial fans available off the shelf with service temperatures above 
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |60 m³/h|90|60|36|+150|16|2500|93x93x25|50|0.096|1f / 230V|
 
-Source: K-Tech-Pro, Germany
-
-![plot](levins-law/Spicy-CR-10/K157 german fan front view.png)
-
-[url](K157 german fan front view.png)
+Supplier: K-Tech-Pro, Germany
 
 A wire-lined silicone air hose duct in the 2.25" diameter will be used to transport the air from the chamber to the intercooler and back.
-
-![alt text](image-2.png)
