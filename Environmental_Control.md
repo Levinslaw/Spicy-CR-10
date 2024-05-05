@@ -19,8 +19,11 @@ The maximum sustainable chamber temperature is currently 135 C. The Spicy CR-10 
     - Ball bearings
     - Lubrication
     - Springs
+- Thermal
+    - Heatbreak
+    - Extruder
 - Electrical
-    - Fan an stepper motor windings
+    - Fan and stepper motor windings
     - Wire
     - Connectors
     - Sensors
@@ -28,5 +31,11 @@ The maximum sustainable chamber temperature is currently 135 C. The Spicy CR-10 
     - First layer access
     - Build surface fixturing
     - Material handling and feeding
+
+The present limiting factors in order of lowest continuous use temperature are:
+- Stepper motor bearings and coils = 135 C practical
+- Drive belts = 135 C continuous
+- Heatbreak air cooling = 150 C
+- Bimetallic thermal expansion = 150 C?
 
 ## Areas of Development
