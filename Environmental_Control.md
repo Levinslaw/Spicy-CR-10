@@ -72,3 +72,6 @@ There are no axial fans available off the shelf with service temperatures above 
 Supplier: K-Tech-Pro, Germany
 
 A wire-lined silicone air hose duct in the 2.25" diameter will be used to transport the air from the chamber to the intercooler and back.
+
+
+![image](https://github.com/levins-law/Spicy-CR-10/assets/74157293/b3ed046d-15b5-411e-85fb-8e165f75e4ec)
