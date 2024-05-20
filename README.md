@@ -53,27 +53,27 @@ _A very hot bedslinger, once a Creality CR-10 V2_
 
 <details>
 
-<summary>##Work In Progress##</summary>  
+<summary>Work In Progress</summary>  
 
-Working with/on a Danger Klipper module for heated part cooling control that allows both fan speed and the heater core temp to be changed independently. It is working well.
+- Working with/on a Danger Klipper module for heated part cooling control that allows both fan speed and the heater core temp to be changed independently. It is working well.
 
-The BTT SKR1.4T has run out of I/O and needs to be replaced by an Octopus with 48VDC stepper drivers. An old PC tower case provides plenty of room for the MCU and associated power supplies and distribution.
+- The BTT SKR1.4T has run out of I/O and needs to be replaced by an Octopus with 48VDC stepper drivers. An old PC tower case provides plenty of room for the MCU and associated power supplies and distribution.
 
-Rebuilding the X-axis gantry to have dual steppers instead of one stepper and an idler. Gantry beams to be laser cut plate aluminum.
+- Rebuilding the X-axis gantry to have dual steppers instead of one stepper and an idler. Gantry beams to be laser cut plate aluminum.
 
-Rebuilding the Z-axis with Wobblex lead screw nuts. Flipping the steppers from bottom drive to top-drive with thrust bearings at the bottom. A pair of bellows shaft couplings will reduce lead screw alignment tolerance.
+- Rebuilding the Z-axis with Wobblex lead screw nuts. Flipping the steppers from bottom drive to top-drive with thrust bearings at the bottom. A pair of bellows shaft couplings will reduce lead screw alignment tolerance.
 
-Y-axis redesign to include kinematic, three-point coupling for the new magnetic bed. Larger linear guides support the bed carriage in three places. A 120 VAC silicone heater is planned, but may be replaced by mica heaters so the bed can operate above 250C for extreme materials like Extem TPI. The single stepper will be replaced by two stepper motors.
+- Y-axis redesign to include kinematic, three-point coupling for the new magnetic bed. Larger linear guides support the bed carriage in three places. A 120 VAC silicone heater is planned, but may be replaced by mica heaters so the bed can operate above 250C for extreme materials like Extem TPI. The single stepper will be replaced by two stepper motors.
 
-Extruder and hotend water-cooling is required. Adding water-cooling for the stepper motors will enable 150C continuous chamber operating temperature.
+- Extruder and hotend water-cooling is required. Adding water-cooling for the stepper motors will enable 150C continuous chamber operating temperature.
 
-Active chamber cooling is required to offset the difference between the lowest rated component and the upper limit of heating power of the heaters versus chamber insulation. A small tube and fin automotive intercooler with appropriate fans and ducting will provide air-to-air rejection of the surplus heat.
+- Active chamber cooling is required to offset the difference between the lowest rated component and the upper limit of heating power of the heaters versus chamber insulation. A small tube and fin automotive intercooler with appropriate fans and ducting will provide air-to-air rejection of the surplus heat.
 
-Power consumption is high (13-14 amps on a 15 amp wall outlet) despite excellent insulation. Reducing power consumption is vital for safety and economy.
+- Power consumption is high (13-14 amps on a 15 amp wall outlet) despite excellent insulation. Reducing power consumption is vital for safety and economy.
 
-Better intrinsic safety is desired. Power-enable relays controlled by the host (Raspberry Pi) will enable remote shutdown when thermal runaway is detected and can't be overcome (N/O solid state relays in a failed-closed scenario). Power-up/down workflows will save energy. Dual temperature sensors with comparative capabilities and diverse pathways should be used on heat sources that are not thermally fused nor controlled by solid state relays.
+- Better intrinsic safety is desired. Power-enable relays controlled by the host (Raspberry Pi) will enable remote shutdown when thermal runaway is detected and can't be overcome (N/O solid state relays in a failed-closed scenario). Power-up/down workflows will save energy. Dual temperature sensors with comparative capabilities and diverse pathways should be used on heat sources that are not thermally fused nor controlled by solid state relays.
 
-Filament drying, handling, and feeding needs improvement. Currently the reel is inside the chamber, which provides heating and drying while running. It mounts to a spool holder with a filament guide hoop. Filament is pulled from the reel by the extruder which limits Z travel. At upper end Z heights the filament path becomes short and abrupt. Very brittle filaments can break mid-print. There is no filament runout detection at this time. Heat is lost opening the upper door to load filament and can cause burns to the operator. A filament heating and drying chamber above the printer is needed. 
+- Filament drying, handling, and feeding needs improvement. Currently the reel is inside the chamber, which provides heating and drying while running. It mounts to a spool holder with a filament guide hoop. Filament is pulled from the reel by the extruder which limits Z travel. At upper end Z heights the filament path becomes short and abrupt. Very brittle filaments can break mid-print. There is no filament runout detection at this time. Heat is lost opening the upper door to load filament and can cause burns to the operator. A filament heating and drying chamber above the printer is needed. 
 
 
 </details>
