@@ -19,6 +19,7 @@ _A very hot bedslinger, once a Creality CR-10 V2_
 - **Structure:** All metal frame, no plastic parts
 - **Motion System:** Misumi SSELBT16 linear guides, Krytox GPL 225 grease
 - **Motors:** LDO Class H Steppers
+- **Wiring :** M22759/32 Spec-55, Raychem DR-25 sheath, no connectors in chamber
 
 ### Chamber Build
 - **Wall construction (inner to outer)**
@@ -53,7 +54,8 @@ _A very hot bedslinger, once a Creality CR-10 V2_
 
 <details>
 
-<summary>Work In Progress</summary>  
+<summary>Work In Progress</summary>
+
 
 - Working with/on a Danger Klipper module for heated part cooling control that allows both fan speed and the heater core temp to be changed independently. It is working well.
 
