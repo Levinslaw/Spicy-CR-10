@@ -1,4 +1,5 @@
-_A very hot bedslinger, once a Creality CR-10 V2_
+_A $1000 printer doing what a $100,000 printer should do.
+Once a Creality CR-10 V2_
 
 ## Current Specifications
 
