@@ -34,7 +34,7 @@ Once a Creality CR-10 V2_
 
 ### Thermal Management
 - **Hotend**
-  - [Chube](https://chubehotend.com/), 1.75mm air cooled, 42 mm meltzone
+  - [Chube](https://chubehotend.com/), 1.75mm **air** conduction cooled, 42 mm meltzone
   - 0.4 mm nozzle, tungsten carbide, special internal geometry (Brumpbo Tungus design)
   - 24 VDC, 100 W heater cartridge
   - PT1000 temperature sensor (Slice Engineering)
