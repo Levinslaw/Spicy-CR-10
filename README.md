@@ -7,9 +7,9 @@ Once a Creality CR-10 V2_
 - **Hotend:** 500°C max
 - **Bed:** 250°C max (tested)
 - **Build chamber:** 150°C max (135°C nominal, component limitation)
-- **Part Cooling, Actively Heated:**  260°C max
+- **Part Cooling, Actively Heated:**  270°C max
 - **Linear Guides:** 150°C max
-- **Belts:** 135°C continous, 150°C reduced life
+- **Belts:** 135°C continous, 150°C with reduced service life
 
 ### Capabilities:
 - **Build Volume:** 310 mm x 310 mm x 200 mm Z (software limited Z)
@@ -20,8 +20,9 @@ Once a Creality CR-10 V2_
 - **Structure:** All metal frame, no plastic parts
 - **Motion System:** Misumi SSELBT16 linear guides, Krytox GPL 225 grease
 - **Motors:** LDO Class H Steppers
-- **Wiring:** M22759/32 Spec-55, Raychem DR-25 sheath, no connectors in chamber
-- **Probing:** Cable-driven high temp Z probe stop, sensorless homing X/Y
+- **Wiring:** M22759/32 Spec-55 Raychem Mini-seal splices, no connectors in chamber
+- **Pathways:** Raychem DR-25 or PEEK/PPS sheath, SCL or FEP heat shrink tubing
+- **Probing:** Beacon, liquid cooled,high-temp cable ~~Cable-driven high temp Z probe stop~~ sensorless homing X/Y
 - **Extruder:** Sherpa Micro, ceramic ball bearings, metal gears
 
 ### Chamber Build
@@ -34,12 +35,13 @@ Once a Creality CR-10 V2_
 
 ### Thermal Management
 - **Hotend**
-  - [Chube](https://chubehotend.com/), 1.75mm **air** conduction cooled, 42 mm meltzone
+  - [Chube](https://chubehotend.com/), 1.75mm ~~air~~ conduction cooled, ~~42~~ 52 mm meltzone
+  - Liquid cooled toolhead carriage
   - 0.4 mm nozzle, tungsten carbide, special internal geometry (Brumpbo Tungus design)
   - 24 VDC, 100 W heater cartridge
   - PT1000 temperature sensor (Slice Engineering)
-  - Custom "Dab" air manifold, ambient cooling air
-  - 24 VDC, 30 W Berd air cooling pump
+  - ~~Custom "Dab" air manifold, ambient cooling air~~
+  - ~~24 VDC, 30 W Berd air cooling pump~~
 - **Bed Heater**  
   - 120 VAC 750W silicone/fiberglass heater pad
   - 6mm THK MIC-6 cast aluminum bed
