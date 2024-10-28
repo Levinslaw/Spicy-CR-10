@@ -7,7 +7,7 @@ Once a Creality CR-10 V2_
 - **Hotend:** 500°C max
 - **Bed:** 250°C max (tested)
 - **Build chamber:** 150°C max (135°C nominal, component limitation)
-- **Part Cooling, Actively Heated:**  270°C max
+- **Part Cooling, Actively Heated:**  ~~260~~ 270°C max
 - **Linear Guides:** 150°C max
 - **Belts:** 135°C continous, 150°C with reduced service life
 
