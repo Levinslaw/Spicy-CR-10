@@ -20,7 +20,7 @@ Once a Creality CR-10 V2_
 - **Structure:** All metal frame, no plastic parts
 - **Motion System:** Misumi SSELBT16 linear guides, Krytox GPL 225 grease
 - **Motors:** LDO Class H Steppers
-- **Wiring:** M22759/32 Spec-55 Raychem Mini-seal splices, no connectors in chamber
+- **Wiring:** M22759/32 and Spec-55 Raychem, Mini-seal splices, no connectors in chamber
 - **Pathways:** Raychem DR-25 or PEEK/PPS sheath, SCL or FEP heat shrink tubing
 - **Probing:** Beacon, liquid cooled,high-temp cable ~~Cable-driven high temp Z probe stop~~ sensorless homing X/Y
 - **Extruder:** Sherpa Micro, ceramic ball bearings, metal gears
