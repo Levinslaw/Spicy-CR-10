@@ -1,5 +1,5 @@
 _A $1000 printer doing what a $100,000 printer should do.
-Once a Creality CR-10 V2_
+Formerly a Creality CR-10 V2_
 
 ## Current Specifications
 
