@@ -5,11 +5,12 @@ Formerly a Creality CR-10 V2_
 
 ### Temperatures:
 - **Hotend:** 500°C max
-- **Bed:** 250°C max (tested)
+- **Bed:** 300°C max planned (250°C tested)
 - **Build chamber:** 150°C max (135°C nominal, component limitation)
-- **Part Cooling, Actively Heated:**  ~~260~~ 270°C maximum, PEEK duct
+- **Part Cooling, Actively Heated:**  270°C maximum, PEEK duct
 - **Linear Guides:** 150°C max
 - **Belts:** 135°C continous, 150°C with reduced service life
+- **Wiring:** 150°C cont.
 
 ### Capabilities:
 - **Build Volume:** 310 mm x 310 mm x 200 mm Z (software limited Z)
@@ -36,15 +37,12 @@ Formerly a Creality CR-10 V2_
 
 ### Thermal Management
 - **Hotend**
-  - [Chube](https://chubehotend.com/), 1.75mm ~~air~~ conduction cooled, ~~42~~ 52 mm meltzone
+  - [Chube](https://chubehotend.com/), 1.75mm conduction cooled, 52 mm meltzone
   - Liquid cooled toolhead carriage
   - 0.5 mm nozzle, tungsten carbide, Nanoflow by Provok3D
   - 24 VDC, 100 W heater cartridge
   - PT1000 temperature sensor (Slice Engineering)
-  - ~~Custom "Dab" air manifold, ambient cooling air~~
-  - ~~24 VDC, 30 W Berd air cooling pump~~
-- **Bed Heater**  
-  - ~~120 VAC 750W silicone/fiberglass heater pad~~
+- **Bed Heater**
   - 1500W mica/kanthal ribbon heater pad, 120VAC
   - 6mm THK MIC-6 cast aluminum bed
   - PT1000 temperature sensor (Slice Engineering)
