@@ -18,19 +18,19 @@ Formerly a Creality CR-10 V2_
 
 ### Machine Construction
 - **Structure:** All metal frame, no plastic parts
-- **Motion System:** Misumi SSELBT16 linear guides, Krytox GPL 225 grease
+- **Motion System:** AWD cartesian, Misumi SSELBT16/13 linear guides, Krytox GPL 225 grease
 - **Motors:** LDO Class H Steppers
 - **Wiring:** M22759/32 and Spec-55 Raychem, Mini-seal splices, no connectors in chamber
 - **Pathways:** Raychem DR-25 or PEEK/PPS sheath, SCL or FEP heat shrink tubing
-- **Probing:** Beacon Contact, liquid cooled, high-temp cable ~~Cable-driven high temp Z probe stop~~
-- **Sensing** X/Y high temperature micro switches ~~sensorless homing~~
+- **Z-Probing:** Beacon Contact, liquid cooled, high-temp cable ~~Cable-driven high temp Z probe stop~~
+- **Sensing**: X/Y high temperature micro switches ~~sensorless homing~~
 - **Extruder:** Sherpa Micro, ceramic ball bearings, metal gears
 
 ### Chamber Build
 - **Wall construction (inner to outer)**
   - Brushed aluminum sheet, 0.020"
   - Spaceloft Aerogel/PET matting, 6mm
-  - PIR foil-faced foam. two layers, 1" thk each, labyrinthine joints
+  - PIR foil-faced foam, two layers, 1" thk each, labyrinthine joints
   - Silicone joint adhesive, Permatex RED Optimum
   - Polyimide tape as needed
 
