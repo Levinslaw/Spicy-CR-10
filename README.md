@@ -22,7 +22,8 @@ Formerly a Creality CR-10 V2_
 - **Motors:** LDO Class H Steppers
 - **Wiring:** M22759/32 and Spec-55 Raychem, Mini-seal splices, no connectors in chamber
 - **Pathways:** Raychem DR-25 or PEEK/PPS sheath, SCL or FEP heat shrink tubing
-- **Probing:** Beacon Contact, liquid cooled,high-temp cable ~~Cable-driven high temp Z probe stop~~ sensorless homing X/Y
+- **Probing:** Beacon Contact, liquid cooled, high-temp cable ~~Cable-driven high temp Z probe stop~~
+- **Sensing** X/Y high temperature micro switches ~~sensorless homing~~
 - **Extruder:** Sherpa Micro, ceramic ball bearings, metal gears
 
 ### Chamber Build
@@ -37,13 +38,14 @@ Formerly a Creality CR-10 V2_
 - **Hotend**
   - [Chube](https://chubehotend.com/), 1.75mm ~~air~~ conduction cooled, ~~42~~ 52 mm meltzone
   - Liquid cooled toolhead carriage
-  - 0.4 mm nozzle, tungsten carbide, special internal geometry (Brumpbo Tungus design)
+  - 0.5 mm nozzle, tungsten carbide, Nanoflow by Provok3D
   - 24 VDC, 100 W heater cartridge
   - PT1000 temperature sensor (Slice Engineering)
   - ~~Custom "Dab" air manifold, ambient cooling air~~
   - ~~24 VDC, 30 W Berd air cooling pump~~
 - **Bed Heater**  
-  - 120 VAC 750W silicone/fiberglass heater pad
+  - ~~120 VAC 750W silicone/fiberglass heater pad~~
+  - 1500W mica/kanthal ribbon heater pad, 120VAC
   - 6mm THK MIC-6 cast aluminum bed
   - PT1000 temperature sensor (Slice Engineering)
 - **Chamber heater**
@@ -63,11 +65,7 @@ Formerly a Creality CR-10 V2_
 
 
 - Working with/on a Danger Klipper module for heated part cooling control that allows both fan speed and the heater core temp to be changed independently. It is working well.
-
-
 - The BTT SKR1.4T has run out of I/O and needs to be replaced by an Octopus with 48VDC stepper drivers. An old PC tower case provides plenty of room for the MCU and associated power supplies and distribution.
-
-
 - Rebuilding the X-axis gantry to have dual steppers instead of one stepper and an idler. Gantry beams to be laser cut plate aluminum.
 
 
