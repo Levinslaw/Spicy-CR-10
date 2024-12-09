@@ -63,7 +63,9 @@ Formerly a Creality CR-10 V2_
 
 
 - Working with/on a Danger Klipper module for heated part cooling control that allows both fan speed and the heater core temp to be changed independently. It is working well.
+
 - The BTT SKR1.4T has run out of I/O and needs to be replaced by an Octopus with 48VDC stepper drivers. An old PC tower case provides plenty of room for the MCU and associated power supplies and distribution.
+
 - Rebuilding the X-axis gantry to have dual steppers instead of one stepper and an idler. Gantry beams to be laser cut plate aluminum.
 
 
