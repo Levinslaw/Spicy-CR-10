@@ -1,9 +1,13 @@
 _A $1000 printer doing what a $100,000 printer should do.
 Formerly a Creality CR-10 V2_
 
-## Current Specifications
+# Current Specifications
 
-### Temperatures:
+> [!IMPORTANT]
+> The work in progress can be followed in the [Project View](https://github.com/orgs/Levinslaw/projects/1/views/1), and in time the [Wiki](https://github.com/Levinslaw/Spicy-CR-10/wiki) will be updated with more static information. There is also a [Discussion forum](https://github.com/Levinslaw/Spicy-CR-10/discussions) if you dare...
+
+
+## Temperatures:
 - **Hotend:** 500°C max
 - **Bed:** 300°C max planned (250°C tested)
 - **Build chamber:** 150°C max (135°C nominal, component limitation)
@@ -12,12 +16,12 @@ Formerly a Creality CR-10 V2_
 - **Belts:** 135°C continous, 150°C with reduced service life
 - **Wiring:** 150°C cont.
 
-### Capabilities:
+## Capabilities:
 - **Build Volume:** 310 mm x 310 mm x 200 mm Z (software limited Z)
 - **Acceleration:** 2500 mm/s<sup>2</sup>
 - **Feedstocks:** 1.75mm PEKK-A, PESU, PPSU, PSU, PEI, PPS, ASA, PA, PC, and more...
 
-### Machine Construction
+## Machine Construction
 - **Structure:** All metal frame, no plastic parts
 - **Motion System:** AWD cartesian, Misumi SSELBT16/13 linear guides, Krytox GPL 225 grease
 - **Motors:** LDO Class H Steppers
@@ -27,7 +31,7 @@ Formerly a Creality CR-10 V2_
 - **Sensing**: X/Y high temperature micro switches ~~sensorless homing~~
 - **Extruder:** Sherpa Micro, ceramic ball bearings, metal gears
 
-### Chamber Build
+## Chamber Build
 - **Wall construction (inner to outer)**
   - Brushed aluminum sheet, 0.020"
   - Spaceloft Aerogel/PET matting, 6mm
@@ -35,7 +39,7 @@ Formerly a Creality CR-10 V2_
   - Silicone joint adhesive, Permatex RED Optimum
   - Polyimide tape as needed
 
-### Thermal Management
+## Thermal Management
 - **Hotend**
   - [Chube](https://chubehotend.com/), 1.75mm conduction cooled, 52 mm meltzone
   - Liquid cooled toolhead carriage
